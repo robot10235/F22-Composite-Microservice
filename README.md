@@ -1,8 +1,8 @@
-# F22-Starter-Microservice
+# F22-Composite-Microservice
 
 ## Introduction
 
-This is a simple Flask based starter microservice for F22 Columbia classes.
+This is a composite microservice for three basic microservices.
 
 
 ## Setup
